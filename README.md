@@ -82,5 +82,5 @@ We welcome contributions! Feel free to fork the repo and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 🌎 Connect with Us
-- Twitter: [@Gruuttttt](https://x.com/Gruuttttt)
+- Twitter: [Gruuttttt](https://x.com/Gruuttttt)
 
